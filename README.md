@@ -1,6 +1,6 @@
 # Story and Image Generator
 
-This application combines two AI models to generate stories and images based on user prompts. It uses Cloudflare Workers to serve the HTML content and handle requests for generating stories and images.
+This application combines two AI models to generate stories and images based on user prompts. It uses Cloudflare Workers to serve the HTML content and handle requests for generating stories and images. 
 
 ## Demo page 
 
