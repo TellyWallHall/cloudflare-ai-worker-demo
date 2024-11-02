@@ -2,7 +2,7 @@
 
 This application combines two AI models to generate stories and images based on user prompts. It uses Cloudflare Workers to serve the HTML content and handle requests for generating stories and images.
 
-## Demo page
+## Demo page 
 
 [Story and Image Generator](https://story-tell-api.bobbyiliev.workers.dev/)
 
